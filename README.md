@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahbub-Hasan-Tamim
+- 👋 Hi, I’m @mahbubHasanTamim
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
