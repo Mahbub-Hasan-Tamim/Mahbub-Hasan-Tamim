@@ -13,10 +13,16 @@
 💬 Ask me about **Web development**<br>
 📫 How to reach me **mahbubhasan.pro@gmail.com**<br>
 📄 Know about my experiences [MahbubHasan](https://mahbubhasantamim.github.io/)
+<br/><br/>
 
+![Profile views](https://gpvc.arturio.dev/mahbubHasanTamim) <br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
+<br/> <br/>
+
+![GitHub metrics](https://metrics.lecoq.io/mahbubHasanTamim) 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubHasanTamim&show_icons=true)
 
 <br/> <br/>
 
@@ -97,9 +103,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubHasanTamim)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubhasantamim&show_icons=true&locale=en&layout=compact" alt="mahbubhasantamim" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubhasantamim&show_icons=true&locale=en&layout=compact" alt="mahbubhasantamim" /></p> <br/>
+ -->
