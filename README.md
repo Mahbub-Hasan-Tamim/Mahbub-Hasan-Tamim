@@ -15,7 +15,11 @@
 📄 Know about my experiences [MahbubHasan](https://mahbubhasantamim.github.io/)
 
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubHasanTamim">
+
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubhasantamim&show_icons=true&locale=en" alt="mahbubhasantamim" />
+</p>
 
 <br/> <br/>
 
@@ -39,13 +43,9 @@
  
  <br/>
   
-  <h2 align="left">💻 Most used languages</h2>
+<h2 align="left">💻 Most used languages</h2>
   
-<a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubHasanTamim&theme=github_dark&layout=compact" />
-</a>  
-  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubHasanTamim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
