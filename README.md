@@ -9,24 +9,24 @@
 💻 I'm a **Web developer**<br>
 🌱 I’m currently learning **ReactJS**<br>
 🎓 I'm a Computer Science student at [NIET](http://www.niet.edu.bd/)<br>
-👨‍💻 All of my projects are available at [MahbubHasan](https://mahbubhasantamim.github.io)<br>
+👨‍💻 All of my projects are available at [MahbubHasan](https://mahbubhasan21.github.io)<br>
 💬 Ask me about **Web development**<br>
 📫 How to reach me **mahbubhasan.pro@gmail.com**<br>
-📄 Know about my experiences [MahbubHasan](https://mahbubhasantamim.github.io/)
+📄 Know about my experiences [MahbubHasan](https://mahbubhasan21.github.io/)
 <br/><br/>
 
-![Profile views](https://gpvc.arturio.dev/mahbubHasanTamim) <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
+![Profile views](https://gpvc.arturio.dev/mahbubHasan21) <br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasan21&" alt="mahbubhasan21" />
 <br/> <br/>
 
-![GitHub metrics](https://metrics.lecoq.io/mahbubHasanTamim) 
+![GitHub metrics](https://metrics.lecoq.io/mahbubHasan21) 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubHasanTamim&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubHasan21&show_icons=true)
 
 <br/> <br/>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/mahbubHasanTamim?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3> 
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/mahbubHasan21?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3> 
 
 <br/> <br/>
 
