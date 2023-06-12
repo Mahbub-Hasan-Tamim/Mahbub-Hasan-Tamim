@@ -8,33 +8,33 @@
 💻 I'm a **Web developer**<br>
 🌱 I’m currently learning **ReactJS**<br>
 🎓 I'm a Computer Science student at [NIET](http://www.niet.edu.bd/)<br>
-👨‍💻 All of my projects are available at [MahbubHasan](https://mahbubhasan21.github.io)<br>
+👨‍💻 All of my projects are available at [MahbubHasan](https://mahbubhasantamim.github.io)<br>
 💬 Ask me about **Web development**<br>
 📫 How to reach me **mahbubhasan.pro@gmail.com**<br>
-📄 Know about my experiences [MahbubHasan](https://mahbubhasan21.github.io/)<br>
-👨‍🎓 Resume [View](https://mahbubhasan21.github.io/resume)
+📄 Know about my experiences [MahbubHasan](https://mahbubhasantamim.github.io/)<br>
+👨‍🎓 Resume [View](https://mahbubhasantamim.github.io/resume)
 <br/><br/>
 
 ![Profile views](https://gpvc.arturio.dev/mahbubHasan21) <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasan21&" alt="mahbubhasan21" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
 <br/> <br/>
 
-![GitHub metrics](https://metrics.lecoq.io/mahbubHasan21) 
+![GitHub metrics](https://metrics.lecoq.io/mahbubhasantamim) 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubHasan21&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubhasantamim&show_icons=true)
 
 <br/> <br/>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/mahbubHasan21?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3> 
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/mahbubhasantamim?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3> 
 
 <br/> <br/>
 
 <h2> 🙋&zwj;♂️ Connect with me:</h2>  
 <p align="left">
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-<a href="https://fb.com/mdtamim21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtamim21" height="30" width="40" /></a>
-<a href="https://instagram.com/__tamim21__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tamim21__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="https://fb.com/mahbubhassantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbubhassantamim" height="30" width="40" /></a>
+<a href="https://instagram.com/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tamim21__" height="30" width="40" /></a>
 </p>
 <br/>
 
