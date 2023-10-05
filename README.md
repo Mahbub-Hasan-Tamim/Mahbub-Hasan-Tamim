@@ -99,6 +99,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubhasantamim)](https://github.com/anuraghazra/github-readme-stats)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<a src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></a>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mahbubhasantamim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/mahbubhasantamim?trk=profile-badge">Mahbub Hasan Tamim</a></div>
