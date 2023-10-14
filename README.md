@@ -1,35 +1,33 @@
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Mahbub Hasan Tamim <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
-<p align="center">
  <img src="./linkedin-email.png"/>
-</p>
-<h2> 📖 About me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-<a href="https://fb.com/mahbubhassantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbubhassantamim" height="30" width="40" /></a>
-<a href="https://instagram.com/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tamim21__" height="30" width="40" /></a>
-</p>
-<br/>
 
-💻 I'm a **Web developer**<br>
-🌱 I’m currently learning **ReactJS**<br>
-🎓 I'm a Computer Science student at [NIET](http://www.niet.edu.bd/)<br>
-👨‍💻 All of my projects are available at [MahbubHasan](https://mahbubhasantamim.github.io)<br>
-💬 Ask me about **Web development**<br>
-📫 How to reach me **mahbubhasan.pro@gmail.com**<br>
-📄 Know about my experiences [MahbubHasan](https://mahbubhasantamim.github.io/)<br>
-👨‍🎓 Resume [View](https://mahbubhasantamim.github.io/resume)
-<br/><br/>
+<p align="right">
+<a href="https://linkedin.com/in/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#"  width="25" /></a>
+<a href="https://fb.com/mahbubhassantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbubhassantamim"  width="25" /></a>
+<a href="https://instagram.com/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tamim21__" width="25" /></a>
+</p>
+<br>
 
-![Profile views](https://gpvc.arturio.dev/mahbubHasan21) <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
+## Hello, I'm Mahbub Hasan Tamim
+
+A passionate **MERN-Stack Web Developer** dedicated to crafting exceptional digital experiences. With a strong foundation in both **front-end** and **back-end** technologies, I bring creativity, technical expertise, and a keen eye for detail to every project I undertake.
+
+I specialize in a wide range of technologies, including HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. Whether it's building responsive and intuitive user interfaces or developing robust server-side functionalities, I thrive on turning innovative ideas into fully functional, user-friendly websites and web applications.
+
+- All of my projects are available at [Mahbub Hasan](https://mahbubhasantamim.github.io)<br>
+- How to reach me **mahbubhasan.pro@gmail.com**<br>
+- Resume [View](https://mahbubhasantamim.github.io/resume)
+
+**Find out more about my experiences and projects at** [MahbubHasan](https://github.com/mahbubhasantamim).
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
 <br/> <br/>
 
 ![GitHub metrics](https://metrics.lecoq.io/mahbubhasantamim)
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubhasantamim&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubhasantamim&show_icons=true) -->
 
-<br/> <br/>
+<br/>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/mahbubhasantamim?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
@@ -93,11 +91,3 @@
 </p>
  
  <br/>
-  
-<h2 align="left">💻 Most used languages</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubhasantamim)](https://github.com/anuraghazra/github-readme-stats)
-
-<a src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></a>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mahbubhasantamim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/mahbubhasantamim?trk=profile-badge">Mahbub Hasan Tamim</a></div>
