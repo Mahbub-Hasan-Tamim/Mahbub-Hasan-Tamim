@@ -13,6 +13,8 @@ A passionate **MERN-Stack Web Developer** dedicated to crafting exceptional digi
 
 I specialize in a wide range of technologies, including HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. Whether it's building responsive and intuitive user interfaces or developing robust server-side functionalities, I thrive on turning innovative ideas into fully functional, user-friendly websites and web applications.
 
+I believe in the power of clean code, elegant design, and seamless user experiences. Every line of code I write is aimed at creating websites and applications that not only look great but also perform exceptionally well. I am committed to staying updated with the latest industry trends and technologies, ensuring that my solutions are always at the forefront of innovation.
+
 - All of my projects are available at [Mahbub Hasan](https://mahbubhasantamim.github.io)<br>
 - How to reach me **mahbubhasan.pro@gmail.com**<br>
 - Resume [View](https://mahbubhasantamim.github.io/resume)
