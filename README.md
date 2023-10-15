@@ -5,7 +5,6 @@
 <a href="https://fb.com/mahbubhassantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbubhassantamim"  width="25" /></a>
 <a href="https://instagram.com/mahbubhasantamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tamim21__" width="25" /></a>
 </p>
-<br>
 
 ## Hello, I'm Mahbub Hasan Tamim
 
