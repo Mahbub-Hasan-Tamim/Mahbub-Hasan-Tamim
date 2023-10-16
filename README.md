@@ -16,9 +16,10 @@ I believe in the power of clean code, elegant design, and seamless user experien
 
 - All of my projects are available at [Mahbub Hasan](https://mahbubhasantamim.github.io)<br>
 - How to reach me **mahbubhasan.pro@gmail.com**<br>
+- Portfolio [View portfolio](https://mahbubhasantamim.github.io/)
 - Resume [View](https://mahbubhasantamim.github.io/resume)
 
-**Find out more about my experiences and projects at** [MahbubHasan](https://github.com/mahbubhasantamim).
+**Find out more about my experiences and projects at** [MahbubHasan](https://github.com/mahbubhasantamim?tab=repositories).
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
 <br/> <br/>
