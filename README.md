@@ -21,11 +21,9 @@ I believe in the power of clean code, elegant design, and seamless user experien
 
 **Find out more about my experiences and projects at** [MahbubHasan](https://github.com/mahbubhasantamim?tab=repositories).
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
-<br/> <br/>
-
-![GitHub metrics](https://metrics.lecoq.io/mahbubhasantamim)
-<br/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhasantamim&" alt="mahbubhasantamim" />
+</div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubhasantamim&show_icons=true) -->
 
